@@ -1,0 +1,6 @@
+
+import random
+
+coin_flip = ['heads', 'tails']
+
+print(random.choice(coin_flip))
